@@ -9,7 +9,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>FutebolPT</string>
 	<key>CFBundleIdentifier</key>
-	<string>net.rcg-pt.widget.FutebolPT</string>
+	<string>net.rcgoncalves.widget.FutebolPT</string>
 	<key>CFBundleName</key>
 	<string>FutebolPT</string>
 	<key>CFBundleShortVersionString</key>

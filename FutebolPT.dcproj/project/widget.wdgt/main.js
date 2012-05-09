@@ -335,7 +335,7 @@ function _compress()
 function openProjectPage(event)
 {
     if( window.widget) {
-        widget.openURL( "http://rcgoncalves.net/project/futebolpt/" );
+        widget.openURL( "http://rcgoncalves.pt/project/futebolpt/" );
         return false;
     }
 }
@@ -344,7 +344,7 @@ function openProjectPage(event)
 function openRCG(event)
 {
     if( window.widget) {
-        widget.openURL( "http://rcgoncalves.net/" );
+        widget.openURL( "http://rcgoncalves.pt/" );
         return false;
     }
 }
